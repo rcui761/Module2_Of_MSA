@@ -1,0 +1,328 @@
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.MainPage.xaml.g.cs
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.App.xaml.g.cs
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.AzureTables.xaml.g.cs
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.CustomVision.xaml.g.cs
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\zajia\Documents\Visual Studio 2017\Projects\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.MainPage.xaml.g.cs
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.App.xaml.g.cs
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.AzureTables.xaml.g.cs
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.CustomVision.xaml.g.cs
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PCLCrypto.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Validation.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PCLCrypto.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Validation.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\proguard\0757626b0.txt
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\proguard\2f4d086a0.txt
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\proguard\ea5c07c40.txt
+C:\Users\rcui7\Desktop\Tabs(Bianca)\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.config
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.apk
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android-Signed.apk
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PCLCrypto.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Validation.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PCLCrypto.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Validation.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.MainPage.xaml.g.cs
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.App.xaml.g.cs
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.AzureTables.xaml.g.cs
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Droid.CustomVision.xaml.g.cs
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\bin\Tabs.Android.apk
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\res\drawable\icon.png
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\rcui7\Desktop\Bianca\Tabs\Tabs\Tabs.Android\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\Amber\MSA_Project\app\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.csprojResolveAssemblyReference.cache
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.dll
+C:\Users\rcui7\Desktop\App\Tabs\Tabs\Tabs.Android\obj\Debug\Tabs.Android.pdb
